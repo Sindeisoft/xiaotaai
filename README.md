@@ -1,4 +1,5 @@
-小他AI接口平替
+Openai 接口平替方案
+按照Openai接口功能，用python复现了一个，对接的是国产GPT模型。避免了GPT瞎说八道国内坏话的问题。
 
 postman 测试地址 http://api.xiaotaai.com/v1/chat/completions
 
