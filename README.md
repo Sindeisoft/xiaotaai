@@ -1,7 +1,6 @@
 小他AI接口平替
 
-api 地址：http://api.xiaotaai.com/v1
-postman 测试 http://api.xiaotaai.com/v1/chat/completions
+postman 测试地址 http://api.xiaotaai.com/v1/chat/completions
 
 {
   "model": "紫鈊大模型",
