@@ -54,6 +54,6 @@ if __name__ == "__main__":
             "content": "你好，你是谁啊？"
         }
     ]
-    create_chat_completion("紫鈊大模型", chat_messages, use_stream=False)
+    create_chat_completion("xiaotaai", chat_messages, use_stream=False)
 
 
