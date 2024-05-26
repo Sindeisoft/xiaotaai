@@ -16,3 +16,6 @@ postman 测试地址 http://api.xiaotaai.com/v1/chat/completions
     }
   ]
 }
+
+实现的价值和原因，主要之前Openai的接口魔法上网后各种不稳定，后来算了，打算自己写一个，但是问题是会有很多的基于Openai的开源项目就会被错过了。
+那么就需要模拟Openai的实现方式，这样就可以继续使用之前基于Openai做的很多开源项目了。
