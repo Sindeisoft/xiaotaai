@@ -21,3 +21,4 @@ postman 测试地址 http://api.xiaotaai.com/v1/chat/completions
 那么就需要模拟Openai的实现方式，这样就可以继续使用之前基于Openai做的很多开源项目了。
 
 xiaotaai的使用的是自己的大模型服务器，大家可以免费用。需要部署自己的仿openai服务器的也可以交流。
+xiaotaai的使用地址是 http://www.xiaotaai.com
